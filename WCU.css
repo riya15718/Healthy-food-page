@@ -1,0 +1,10 @@
+.cen{
+    text-align: center;
+}
+.box_styling{
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+}
